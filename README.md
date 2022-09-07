@@ -1,2 +1,2 @@
 # project1
-3d Printing data optimization using machine learning 
+3d Printing data optimization using machine learning.
